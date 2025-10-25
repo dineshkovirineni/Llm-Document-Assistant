@@ -1,9 +1,6 @@
-# Llm-Document-Assistant
-LLM Document Assistant: Query PDFs using GPT-4 + FAISS embeddings. 
-
 # LLM Document Assistant
 
-A production-ready RAG (Retrieval Augmented Generation) pipeline for querying unstructured PDF documents using FastAPI, LangChain, and FAISS vector database.
+A RAG (Retrieval Augmented Generation) pipeline for querying unstructured PDF documents using FastAPI, LangChain, and FAISS vector database.
 
 ## 🎯 Key Features
 
